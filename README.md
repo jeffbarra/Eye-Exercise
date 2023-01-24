@@ -1,0 +1,1 @@
+This was one of the earlier projects I completed.  It incorporates html, css and JavaScript.  Copy and paste this code into VS Code and run on "live-server."  Future improvements: more detailed eyes and turn it into a game somehow where points are accumulated.
